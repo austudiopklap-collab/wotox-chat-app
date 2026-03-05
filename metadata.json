@@ -1,0 +1,5 @@
+{
+  "name": "WoTOX Chat",
+  "description": "A feature-rich chatting application with servers, friends, AI moderation, and real-time game activity tracking.",
+  "requestFramePermissions": ["camera", "microphone"]
+}
