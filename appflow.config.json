@@ -1,0 +1,11 @@
+{
+  "apps": [
+    {
+      "appId": "3b1cfafe",
+      "root": "./",
+      "android": {
+        "root": "android"
+      }
+    }
+  ]
+}
