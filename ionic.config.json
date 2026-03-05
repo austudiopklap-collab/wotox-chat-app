@@ -1,5 +1,6 @@
 {
   "name": "WoTOX Chat",
   "integrations": {},
-  "type": "react-vite"
+  "type": "react-vite",
+  "id": "3b1cfafe"
 }
